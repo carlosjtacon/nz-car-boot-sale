@@ -1,0 +1,93 @@
+:root {
+    font-family: "Noto Sans Mono", monospace;
+    --accentRed: rgb(219, 70, 70);
+    --accentBlue: rgb(70, 157, 219);
+    --accentGreen: rgb(65, 200, 104);
+    --accentGrey: rgb(150, 150, 150);
+    --accentOrange: rgb(232, 139, 0);
+    --inkColor: rgb(20, 20, 20);
+    --backgroundColor: rgb(250, 250, 250);
+}
+
+
+body {
+    background-color: var(--backgroundColor);
+	color: var(--inkColor);
+	font-size: 0.95em;
+	padding: 2em; 
+	min-width: 0;
+	max-width: 60em;
+	margin: auto;
+}
+
+h1 {
+    margin: 0.5em;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin: 2em 1em 1em;
+    font-size: 1.3em;
+    font-weight: 2000;
+    text-transform: uppercase;
+}
+
+#furniture {
+    color: var(--accentRed);
+}
+
+#kitchen {
+    color: var(--accentOrange);
+}
+
+#electric {
+    color: var(--accentGreen);
+}
+
+#house-stuff {
+    color: var(--accentBlue);
+}
+
+#other {
+    color: var(--accentGrey);
+}
+
+ul, li {
+    list-style: none;
+    margin: 1em;
+    padding: 0;
+}
+
+/* Remove checkbox appearance */
+input[type="checkbox"] {
+    /* Add if not using autoprefixer */
+    -webkit-appearance: none;
+    appearance: none;
+    /* For iOS < 15 to remove gradient background */
+    background-color: #fff;
+    /* Not removed via appearance */
+    margin: 0;
+}
+
+input[type="checkbox"] {
+    box-shadow: 0 0 0 0.5em greenyellow;
+}
+
+input[type="checkbox"]:checked {
+    box-shadow: 0 0 0 0.5em hotpink;
+}
+
+input:checked + strong {
+    text-decoration:line-through
+}
+
+img {
+    width: 100%;
+    margin: 2em 0;
+}
+/* @media all and (min-width: 800px) { 
+    body {
+        padding: 5em !important;
+    }
+} */
