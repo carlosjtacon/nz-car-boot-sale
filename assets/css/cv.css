@@ -33,6 +33,14 @@ h2 {
     text-transform: uppercase;
 }
 
+p {
+    margin: 0;
+}
+
+ul + p {
+    margin-top: 5em;
+}
+
 #furniture {
     color: var(--accentRed);
 }
@@ -59,23 +67,20 @@ ul, li {
     padding: 0;
 }
 
-/* Remove checkbox appearance */
 input[type="checkbox"] {
-    /* Add if not using autoprefixer */
-    -webkit-appearance: none;
     appearance: none;
-    /* For iOS < 15 to remove gradient background */
-    background-color: #fff;
-    /* Not removed via appearance */
+    -webkit-appearance: none;
+    background-color: red;
     margin: 0;
-}
 
-input[type="checkbox"] {
-    box-shadow: 0 0 0 0.5em greenyellow;
+    width: 0;
+    height: 0;
+    border-radius: 0;
+    box-shadow: 0 0 0 0.65em greenyellow;
 }
 
 input[type="checkbox"]:checked {
-    box-shadow: 0 0 0 0.5em hotpink;
+    box-shadow: 0 0 0 0.65em hotpink;
 }
 
 input:checked + strong {
@@ -83,11 +88,20 @@ input:checked + strong {
 }
 
 img {
-    width: 100%;
-    margin: 2em 0;
+    width: calc(100% + (2em * 2));
+    height: 100%;
+    margin-left: -2em;
+    margin-top: -2em;
 }
-/* @media all and (min-width: 800px) { 
+
+@media all and (min-width: 800px) { 
     body {
         padding: 5em !important;
     }
-} */
+    
+    img {
+        width: 100% !important;
+        margin: 0;
+    }
+    
+}

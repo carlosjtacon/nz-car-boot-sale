@@ -1,4 +1,6 @@
 {
+  "cssvalidator.enabled" : false,
+  "htmlvalidator.enabled" : false,
   "workspace.art_style" : 0,
   "workspace.color" : 3,
   "workspace.name" : "nz-car-boot-sale"
