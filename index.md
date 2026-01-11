@@ -8,12 +8,12 @@ title: NZ Car Boot Sale
 
 ## Furniture  
   
-- [ ] **Carlos’ Desk Upcycled Edition**  
-- [ ] **Alix Desk Gaming Edition**  
-- [ ] **IKEA bathroom white shelving**  
+- [ ] **(£30) Carlos’ Desk Upcycled Edition**  
+- [ ] **(£30) Alix Desk Gaming Edition MICKE 105x50cm**  
+- [ ] **IKEA Bathroom White Shelf Unit**  
 - [ ] **IKEA Black Stool**  
-- [ ] **IKEA Office chair**  
-- [ ] **Spice rack door wooden shelf**  
+- [ ] **(£90) IKEA MARKUS Office Chair**  
+- [ ] **Spice Rack Backdoor Wooden Shelf**  
 - [x] **Magnetic Wooden Shelf (Handmade by Carlos)** Evan  
   
 ## Kitchen  
@@ -23,52 +23,57 @@ title: NZ Car Boot Sale
 - [ ] **Hand Blender**  
 - [ ] **Dough Machine**  
 - [ ] **Bamboo Steamer**  
-- [ ] **Glass jars, tupperwares**  
-- [ ] **Pots and pans,**  
-- [ ] **Baking trays**  
+- [ ] **Glass Jars, Tupperwares**  
+- [ ] **Pots and Pans**  
+- [ ] **Baking Trays**  
   
 ## Electric   
   
 - [ ] **iMac 27 2010’s - It’s working with Linux nice to connect work remote or retro gaming**  
-- [ ] **Hoover (Liquids and Solids, Carpet and Floor)**  
-- [ ] **$$ PC Monitor**  
-- [ ] **Mechanical Keyboard**  
-- [ ] **Sound bar**  
-- [ ] **Cables connectors and misc stuff**  
-  
+- [ ] **(£30) Karcher Hoover (Liquids and Solids, Carpet and Floor)**  
+- [ ] **(£200) Alix PC Monitor Viewsonic VP2768**  
+- [ ] **(£50) Sound Bar Sony SF-150**  
+- [ ] **Cables, connectors and misc stuff**  
+- [x] **Mechanical Keyboard** Camille  
+      
 ## House stuff  
   
 - [ ] **Wooden Window Planters (handmade by Carlos)**  
-- [ ] **Big Whiteboard**  
-- [ ] **Desk / bedside lamps x2**  
-- [ ] **Long cable extender 20m**  
-- [ ] **Cork scrap board**  
-- [ ] **IKEA black storage shelving boxes x4**  
-- [ ] **IKEA wicker basket**  
+- [ ] **Desk / Bedside Lamps x2**  
+- [ ] **Long Cable Extender 20m**  
+- [ ] **IKEA Black Storage Shelving Boxes x4**  
+- [ ] **IKEA Wicker Basket**  
 - [ ] **Bedsheets**  
 - [ ] **Turntable**  
-- [ ] **Laundry basket**  
-- [ ] **IKEA Shoes organiser**  
+- [ ] **Laundry Basket**  
+- [ ] **IKEA Shoes Organiser**  
 - [ ] **IKEA Broom**  
 - [ ] **Sofa Blanket**  
-- [ ] **IKEA standing lamp**  
+- [ ] **IKEA Standing Lamp**  
 - [ ] **Duvet x2**  
+- [ ] **Chest**  
+- [x] **Big Whiteboard** Victor  
+- [x] **Cork scrap board** Edwin  
   
 ## Other  
   
-- [ ] **Basket ball**  
-- [ ] **Ping pong kit**  
-- [ ] **Roller skates**  
-- [ ] **Pull ups bar**  
-- [ ] **Macbeth balls**  
-- [ ] **Christmas / halloween decorations**  
-- [ ] **Picnic blanket**  
-- [ ] **Double bed inflatable mattress and soft mattress topper**  
-- [ ] **Iron and ironing board**  
-- [ ] **Crafting stuff**  
-- [ ] **Many plants**  
-- [ ] **Plant pots**  
-- [ ] **Gardening tools**  
-- [ ] **Wood planks for woodworking projects**  
+- [ ] **Basket Ball**  
+- [ ] **Ping Pong Kit**  
+- [ ] **Pull Ups Bar**  
+- [ ] **Christmas / Halloween Decorations**  
+- [ ] **Picnic Blanket**  
+- [ ] **Iron and Ironing Board**  
+- [ ] **Many Plants**  
+- [ ] **Plant Pots**  
+- [ ] **Gardening Tools**  
+- [ ] **(£100) Alix Bicycle**  
+- [ ] **LOTR and Star Wars Puzzles**  
+- [ ] **Rummikub**  
+- [x] **Wood planks for woodworking projects** Charles & Lomasi  
+- [x] **Crafting stuff** Share between few people  
+- [x] **Macbeth balls** Juanma  
+- [x] **Roller skates** Ema  
+- [x] **Double bed inflatable mattress and soft mattress topper** Charles & Lomasi  
+
 
 ![wayout](assets/img/wayout.jpeg)  
