@@ -5,8 +5,8 @@ title: NZ Car Boot Sale
 
 ![kiwi](assets/img/kiwi.jpg)  
 
-### 💸 [TIP JAR](https://monzo.me/carlostaconfernandez?h=vcDNv2) 💸  
-
+## [TIP JAR 🫙](https://monzo.me/carlostaconfernandez?h=vcDNv2)
+  
 ## Furniture  
   
 - [ ] **(£30) Carlos’ Desk Upcycled Edition**  
@@ -19,18 +19,18 @@ title: NZ Car Boot Sale
   
 ## Kitchen  
   
-- [ ] **IKEA Carbon Steel Pan**  
 - [ ] **Yellow Kettle**  
-- [ ] **Hand Blender**  
 - [ ] **Dough Machine**  
 - [ ] **Bamboo Steamer**  
 - [ ] **Glass Jars, Tupperwares**  
 - [ ] **Pots and Pans**  
 - [ ] **Baking Trays**  
+- [x] **IKEA Carbon Steel Pan** Charles & Lomasi  
+- [x] **Hand Blender** Ryu  
   
 ## Electric   
   
-- [ ] **iMac 27 2010’s - It’s working with Linux nice to connect work remote or retro gaming**  
+- [ ] **(£30) iMac 27 2010’s - It’s working with Linux nice to connect work remote or retro gaming**  
 - [ ] **(£30) Karcher Hoover (Liquids and Solids, Carpet and Floor)**  
 - [ ] **(£200) Alix PC Monitor Viewsonic VP2768**  
 - [ ] **(£50) Sound Bar Sony SF-150**  
@@ -39,7 +39,6 @@ title: NZ Car Boot Sale
       
 ## House stuff  
   
-- [ ] **Wooden Window Planters (handmade by Carlos)**  
 - [ ] **Desk / Bedside Lamps x2**  
 - [ ] **Long Cable Extender 20m**  
 - [ ] **IKEA Black Storage Shelving Boxes x4**  
@@ -50,9 +49,10 @@ title: NZ Car Boot Sale
 - [ ] **IKEA Shoes Organiser**  
 - [ ] **IKEA Broom**  
 - [ ] **Sofa Blanket**  
-- [ ] **IKEA Standing Lamp**  
 - [ ] **Duvet x2**  
 - [ ] **Chest**  
+- [x] **IKEA Standing Lamp** Ryu  
+- [x] **Wooden Window Planters (handmade by Carlos)** Emiliano & Pau  
 - [x] **Big Whiteboard** Victor  
 - [x] **Cork scrap board** Edwin  
   
