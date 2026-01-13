@@ -5,7 +5,7 @@ title: NZ Car Boot Sale
 
 ![kiwi](assets/img/kiwi.jpg)  
 
-## [TIP JAR 🫙](https://monzo.me/carlostaconfernandez?h=vcDNv2)
+## [TIP JAR 🫙🥝](https://monzo.me/carlostaconfernandez?h=vcDNv2)
   
 ## Furniture  
   
