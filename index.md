@@ -14,8 +14,10 @@ title: NZ Car Boot Sale
 - [ ] **IKEA Bathroom White Shelf Unit**  
 - [ ] **IKEA Black Stool**  
 - [ ] **(£90) IKEA MARKUS Office Chair**  
-- [ ] **Spice Rack Backdoor Wooden Shelf**  
-- [x] **Magnetic Wooden Shelf (Handmade by Carlos)** Evan  
+- [ ] **Ladder Style Wooden Shelf (handmade by Carlos)**  
+- [ ] **Radiator Custom Wooden Shelf (handmade by Carlos)**
+- [ ] **Spice Rack Backdoor Wooden Shelf (handmade by Carlos)**  
+- [x] **Magnetic Wooden Shelf (handmade by Carlos)** Evan  
   
 ## Kitchen  
   
