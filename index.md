@@ -6,8 +6,9 @@ title: NZ Car Boot Sale
 ![kiwi](assets/img/kiwi.jpg)  
 
 ## [TIP JAR 🫙🥝](https://monzo.me/carlostaconfernandez?h=vcDNv2)
-  
 
+## Furniture  
+  
 - [ ] **(£30) Carlos’ Desk Upcycled Edition**  
 - [ ] **(£30) Alix Desk Gaming Edition MICKE 105x50cm**  
 - [ ] **IKEA Bathroom White Shelf Unit**  
@@ -29,7 +30,7 @@ title: NZ Car Boot Sale
   
 ## Electric   
   
-- [ ] **(£20) iMac 27 2010’s - It’s working with Linux nice to connect work remote or retro gaming**  
+- [ ] **(£30) iMac 27 2010’s - It’s working with Linux nice to connect work remote or retro gaming**  
 - [ ] **(£200) Alix PC Monitor Viewsonic VP2768**  
 - [ ] **(£50) Sound Bar Sony SF-150**  
 - [ ] **Cables, connectors and misc stuff**  
@@ -47,7 +48,6 @@ title: NZ Car Boot Sale
 - [ ] **IKEA Shoes Organiser**  
 - [ ] **IKEA Broom**  
 - [ ] **Sofa Blanket**  
-- [ ] **Duvet Feathers**  
 - [ ] **Duvet Basic**  
 - [ ] **Wicker Chest**  
 - [ ] **IKEA Standing Lamp**  
@@ -62,22 +62,19 @@ title: NZ Car Boot Sale
 - [ ] **Basket Ball**  
 - [ ] **Neon Lights**  
 - [ ] **Ping Pong Kit**  
-- [ ] **(£10) Hair Dryer with Diffuser**  
 - [ ] **Pull Ups Bar**  
 - [ ] **Christmas / Halloween Decorations**  
-- [ ] **Picnic Blanket**  
 - [ ] **(£20) Iron and Ironing Board**  
-- [ ] **Many Plants**  
-- [ ] **Plant Pots**  
-- [ ] **Gardening Tools**  
+- [ ] **Many Plants, Plant Pots & Gardening Tools**  
 - [ ] **(£100) Alix Bicycle**  
 - [ ] **LOTR and Star Wars Puzzles**  
 - [ ] **Rummikub**  
+- [x] **Picnic Blanket** Amélie  
+- [x] **(£10) Hair Dryer with Diffuser** Amélie  
 - [x] **Wood planks for woodworking projects** Charles & Lomasi  
 - [x] **Crafting stuff** Share between few people  
 - [x] **Macbeth balls** Juanma  
 - [x] **Roller skates** Ema  
 - [x] **Double bed inflatable mattress and soft mattress topper** Charles & Lomasi
-
 
 ![wayout](assets/img/wayout.jpeg)  
