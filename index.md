@@ -66,11 +66,11 @@ title: NZ Car Boot Sale
 - [ ] **Ping Pong Kit**  
 - [ ] **Pull Ups Bar**  
 - [ ] **Christmas / Halloween Decorations**  
-- [ ] **(£20) Iron and Ironing Board**  
 - [ ] **Many Plants, Plant Pots & Gardening Tools**  
 - [ ] **(£100) Alix Bicycle**  
 - [ ] **LOTR and Star Wars Puzzles**  
 - [ ] **Rummikub**  
+- [x] **(£20) Iron and Ironing Board** Elena  
 - [x] **Picnic Blanket** Amélie  
 - [x] **(£10) Hair Dryer with Diffuser** Amélie  
 - [x] **Wood planks for woodworking projects** Charles & Lomasi  
