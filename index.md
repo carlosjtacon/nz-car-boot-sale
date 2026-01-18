@@ -50,7 +50,7 @@ title: NZ Car Boot Sale
 - [ ] **IKEA Shoes Organiser**  
 - [ ] **IKEA Broom**  
 - [ ] **Sofa Blanket**  
-- [ ] **Duvet Basic**  
+- [ ] **Duvet**  
 - [ ] **Wicker Chest**  
 - [ ] **IKEA Standing Lamp**  
 - [x] **Turntable** Juanma  
@@ -67,9 +67,9 @@ title: NZ Car Boot Sale
 - [ ] **Pull Ups Bar**  
 - [ ] **Christmas / Halloween Decorations**  
 - [ ] **Many Plants, Plant Pots & Gardening Tools**  
-- [ ] **(£100) Alix Bicycle**  
-- [ ] **LOTR and Star Wars Puzzles**  
 - [ ] **Rummikub**  
+- [x] **(£100) Alix Bicycle** Edwin  
+- [x] **LOTR and Star Wars Puzzles** Juanma  
 - [x] **(£20) Iron and Ironing Board** Elena  
 - [x] **Picnic Blanket** Amélie  
 - [x] **(£10) Hair Dryer with Diffuser** Amélie  
