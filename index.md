@@ -76,5 +76,7 @@ title: NZ Car Boot Sale
 - [x] **Crafting stuff** Share between few people  
 - [x] **Macbeth balls** Juanma  
 - [x] **Roller skates** Ema  
-- [x] **Double bed inflatable mattress and soft mattress topper** Charles & Lomasi  
+- [x] **Double bed inflatable mattress and soft mattress topper** Charles & Lomasi
+
+
 ![wayout](assets/img/wayout.jpeg)  
