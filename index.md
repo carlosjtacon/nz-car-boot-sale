@@ -7,14 +7,14 @@ title: NZ Car Boot Sale
 
 ## [TIP JAR 🫙🥝](https://monzo.me/carlostaconfernandez?h=vcDNv2)
 
-## Furniture  
-  
-- [ ] **(£30) Carlos’ Desk Upcycled Edition**  
-- [ ] **(£30) Alix Desk Gaming Edition MICKE 105x50cm**  
-- [ ] **(£90) IKEA MARKUS Office Chair**  
+## Furniture
+
 - [ ] **Ladder Style Wooden Shelf (handmade by Carlos)**  
 - [ ] **Radiator Custom Wooden Shelf (handmade by Carlos)**  
-- [ ] **Spice Rack Backdoor Wooden Shelf (handmade by Carlos)**  
+- [ ] **Spice Rack Backdoor Wooden Shelf (handmade by Carlos)**
+- [x] **(£30) Carlos’ Desk Upcycled Edition** Charity 
+- [x] **(£30) Alix Desk Gaming Edition MICKE 105x50cm** Charity
+- [x] **(£90) IKEA MARKUS Office Chair** Charity
 - [x] **IKEA Bathroom White Shelf Unit** Sold  
 - [x] **IKEA Black Stool** Ema  
 - [x] **Magnetic Wooden Shelf (handmade by Carlos)** Evan  
@@ -22,8 +22,8 @@ title: NZ Car Boot Sale
 ## Kitchen  
   
 - [ ] **Yellow Kettle**  
-- [ ] **Dough Machine**  
 - [ ] **Pots and Pans**  
+- [x] **Dough Machine** Vinted
 - [x] **Glass Jars, Tupperwares**  
 - [x] **Bamboo Steamer** Aude  
 - [x] **IKEA Carbon Steel Pan** Charles & Lomasi  
@@ -31,7 +31,7 @@ title: NZ Car Boot Sale
   
 ## Electric   
   
-- [ ] **(£200) Alix PC Monitor Viewsonic VP2768**  
+- [x] **(£200) Alix PC Monitor Viewsonic VP2768** CEX
 - [x] **iMac 27 2010’s - It’s working with Linux nice to connect work remote or retro gaming** Charles  
 - [x] **Cables, connectors and misc stuff**  
 - [x] **(£50) Sound Bar Sony SF-150** Gabi  
@@ -60,12 +60,12 @@ title: NZ Car Boot Sale
   
 ## Other  
   
-- [ ] **Basket Ball**  
-- [ ] **Ping Pong Kit**  
-- [ ] **Pull Ups Bar**  
-- [ ] **Christmas / Halloween Decorations**  
-- [ ] **Many Plants, Plant Pots & Gardening Tools**  
-- [ ] **Rummikub**  
+- [ ] **Many Plants, Plant Pots & Gardening Tools** 
+- [x] **Basket Ball** Charity
+- [x] **Ping Pong Kit** Charity
+- [x] **Pull Ups Bar** Vinted
+- [x] **Christmas / Halloween Decorations** Charity 
+- [x] **Rummikub** Charity
 - [x] **Neon Lights** Camille  
 - [x] **(£100) Alix Bicycle** Edwin  
 - [x] **LOTR and Star Wars Puzzles** Juanma  
